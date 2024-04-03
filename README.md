@@ -23,3 +23,8 @@ By combining Terraform and GitHub Actions, you can:
 **Infrastructure as Code Best Practices**: Follow best practices for infrastructure as code, including versioning, code review, and documentation.
 
 This project serves as a starting point for your infrastructure automation journey, providing a basic structure and guidelines to build upon.
+
+
+## Reference
+
+![1712145604058](image/README/1712145604058.png)
